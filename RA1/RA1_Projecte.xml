@@ -1,8 +1,150 @@
 <botiga moneda="euro">
   <nom>UNLCKED</nom>
   <productes data_actualitzacio="29/09/2026">
-    <producte1>
-      
+    <producte1 codi="1">
+      <nom>Alan Wake</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>12,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>400</estoc>
+      <data_llançament>16 Feb, 2012</data_llançament>
+      <descripcio>A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.</descripcio>
     </producte1>
+    <producte2 codi="2">
+      <nom>Dying Light</nom>
+      <categories>
+        <categoria>Zombies</categoria>
+        <categoria>Survival Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>24,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>500</estoc>
+      <data_llançament>26 Jan, 2015</data_llançament>
+      <descripcio>First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.</descripcio>
+    </producte2>
+    <producte3 codi="3">
+      <nom>Marvel: Wolverine</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Superheroes</categoria>
+      </categories>
+      <plataforma>PlayStation5</plataforma>
+      <preu>79,99</preu>
+      <valoracio>9.4/10</valoracio>
+      <estoc>700</estoc>
+      <data_llançament>15 Sep, 2026</data_llançament>
+      <descripcio>While searching for answers about his past, Wolverine will do whatever it takes: unleashing brutal clawing, violent rage, and an unrelenting determination to unravel the mystery of the man he used to be.</descripcio>
+    </producte3>
+    <producte4 codi="4">
+      <nom>Crimson Desert Enhanced</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Adventure</categoria>
+        <categoria>Open World</categoria>
+      </categories>
+      <plataforma>Xbox</plataforma>
+      <preu>69,99</preu>
+      <valoracio>8/10</valoracio>
+      <estoc>350</estoc>
+      <data_llançament>19 Mar, 2026</data_llançament>
+      <descripcio>In Crimson Desert, an open-world action-adventure awaits, set on the continent of Pywel, a place where beauty and cruelty go hand in hand. You will step into the shoes of Kliff of the Graymanes and embark on a journey to reclaim everything you have lost in these lands. Explore uncharted territories, confront new gangs, and immerse yourself in a world as beautiful as it is ruthless. After the Black Bear attack, Kliff has lost his fellow Graymanes, who were like family to him. Amidst the threats and conflicts that plague the continent of Pywel, begin a journey to reunite the scattered beings in each of the stories, restore the honor of the Graymanes, and reclaim their lost home.</descripcio>
+    </producte4>
+    <producte5 codi="5">
+      <nom>Resident Evil Veronica</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Survival Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>tba</preu>
+      <valoracio>tba</valoracio>
+      <estoc>tba</estoc>
+      <data_llançament>2027</data_llançament>
+      <descripcio>Resident Evil Veronica is a remake of 2000's Resident Evil Code: Veronica. In 2027, madness and intrigue, love and hate all combine to create a chilling new entry in survival horror.</descripcio>
+    </producte5>
+    <producte6 codi="6">
+      <nom>Yandere Simulator</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Romance</categoria>
+      </categories>
+      <plataforma>Windows</plataforma>
+      <preu>Free</preu>
+      <valoracio>9,2/10</valoracio>
+      <estoc>300</estoc>
+      <data_llançament>13 Mar, 2014</data_llançament>
+      <descripcio>Yandere Simulator is an action-stealth video game developed by YandereDev for Windows. The story follows the obsessively in love student Ayano Aishi, nicknamed "Yandere-chan", who takes the initiative to eliminate anyone she believes attracts the attention of her "senpai", Taro Yamada.</descripcio>
+    </producte6>
+    <producte7 codi="7">
+      <nom>Alan Wake</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>12,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>4000</estoc>
+      <data_llançament>16 Feb, 2012</data_llançament>
+      <descripcio>A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.</descripcio>
+    </producte7>
+    <producte1 codi="1">
+      <nom>Alan Wake</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>12,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>4000</estoc>
+      <data_llançament>16 Feb, 2012</data_llançament>
+      <descripcio>A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.</descripcio>
+    </producte1>
+    <producte1 codi="1">
+      <nom>Alan Wake</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>12,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>4000</estoc>
+      <data_llançament>16 Feb, 2012</data_llançament>
+      <descripcio>A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.</descripcio>
+    </producte1>
+    <producte1 codi="1">
+      <nom>Alan Wake</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>12,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>4000</estoc>
+      <data_llançament>16 Feb, 2012</data_llançament>
+      <descripcio>A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.</descripcio>
+    </producte1>
+    <producte1 codi="1">
+      <nom>Alan Wake</nom>
+      <categories>
+        <categoria>Action</categoria>
+        <categoria>Horror</categoria>
+      </categories>
+      <plataforma>Steam</plataforma>
+      <preu>12,99</preu>
+      <valoracio>9/10</valoracio>
+      <estoc>4000</estoc>
+      <data_llançament>16 Feb, 2012</data_llançament>
+      <descripcio>A Dark Presence stalks the small town of Bright Falls, pushing Alan Wake to the brink of sanity in his fight to unravel the mystery and save his love.</descripcio>
+    </producte1>
+
   </productes>
 </botiga>
